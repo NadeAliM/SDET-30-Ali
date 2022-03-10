@@ -8,5 +8,7 @@ public class demoPractice {
 public void demopractice1() {
 	System.out.println("USER 1 COMMIT" );
 	
+	System.out.println("user 2 commit");
+	
 }
 }
